@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923413611803",
+    "project_id": "teraryum-1",
+    "storage_bucket": "teraryum-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923413611803:android:20ff86a780f04c9aa8ffbe",
+        "android_client_info": {
+          "package_name": "com.example.mobil_uygulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923413611803-kql16mg00qkptkifa4619vsqop9la77v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVBt2YC6FmFcMPBUu8FRhIDLFtwGiu7E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923413611803-kql16mg00qkptkifa4619vsqop9la77v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
